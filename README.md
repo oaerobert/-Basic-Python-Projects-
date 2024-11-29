@@ -1,6 +1,6 @@
 # -Basic-Python-Projects-
 
-This repository contains beginner-friendly Python projects that demonstrate my learning journey in programming. Each project focuses on developing foundational skills in Python and applyting them to solve simple problems.
+This repository contains beginner-friendly Python projects that demonstrate my learning journey in programming. Each project focuses on developing foundational skills in Python and applying them to solve simple problems.
 
 ## Projects Included
 ### **1. Calculator**
